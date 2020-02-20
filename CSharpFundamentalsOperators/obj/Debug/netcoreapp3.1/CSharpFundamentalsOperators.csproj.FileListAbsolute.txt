@@ -1,0 +1,11 @@
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\bin\Debug\netcoreapp3.1\CSharpFundamentalsOperators.exe
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\bin\Debug\netcoreapp3.1\CSharpFundamentalsOperators.deps.json
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\bin\Debug\netcoreapp3.1\CSharpFundamentalsOperators.runtimeconfig.json
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\bin\Debug\netcoreapp3.1\CSharpFundamentalsOperators.runtimeconfig.dev.json
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\bin\Debug\netcoreapp3.1\CSharpFundamentalsOperators.dll
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\bin\Debug\netcoreapp3.1\CSharpFundamentalsOperators.pdb
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\obj\Debug\netcoreapp3.1\CSharpFundamentalsOperators.csprojAssemblyReference.cache
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\obj\Debug\netcoreapp3.1\CSharpFundamentalsOperators.AssemblyInfoInputs.cache
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\obj\Debug\netcoreapp3.1\CSharpFundamentalsOperators.AssemblyInfo.cs
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\obj\Debug\netcoreapp3.1\CSharpFundamentalsOperators.dll
+C:\Users\Briareos\Sources\Repos\CSharpFundamentalsOperators\CSharpFundamentalsOperators\obj\Debug\netcoreapp3.1\CSharpFundamentalsOperators.pdb

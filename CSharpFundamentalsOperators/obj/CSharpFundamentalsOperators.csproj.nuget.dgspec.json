@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Briareos\\Source\\Cours\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators.csproj": {}
+    "C:\\Users\\Briareos\\Sources\\Repos\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators.csproj": {}
   },
   "projects": {
-    "D:\\Briareos\\Source\\Cours\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators.csproj": {
+    "C:\\Users\\Briareos\\Sources\\Repos\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Briareos\\Source\\Cours\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators.csproj",
+        "projectUniqueName": "C:\\Users\\Briareos\\Sources\\Repos\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators.csproj",
         "projectName": "CSharpFundamentalsOperators",
-        "projectPath": "D:\\Briareos\\Source\\Cours\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators.csproj",
-        "packagesPath": "C:\\Users\\Briar\\.nuget\\packages\\",
-        "outputPath": "D:\\Briareos\\Source\\Cours\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators\\obj\\",
+        "projectPath": "C:\\Users\\Briareos\\Sources\\Repos\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators.csproj",
+        "packagesPath": "C:\\Users\\Briareos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Briareos\\Sources\\Repos\\CSharpFundamentalsOperators\\CSharpFundamentalsOperators\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Briar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Briareos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
